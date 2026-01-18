@@ -1,0 +1,11 @@
+ls
+cd
+pwd
+mkdir
+rm
+chmod
+chown
+ps
+top
+ping
+ip a
